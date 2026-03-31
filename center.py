@@ -1,4 +1,4 @@
-#center()
-N="NPCODER"
-R=N.center(20,"*")
-print(R)
+# center() ⭐ put text in the middle
+N = "NPCODER"
+S = N.center(20, "*")
+print(S)
