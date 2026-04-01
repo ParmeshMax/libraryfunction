@@ -1,0 +1,4 @@
+#math.exp() it is used to find exponential (e^x)
+import math
+x = math.exp(2)
+print(x)   # 7.38905609893065

@@ -1,0 +1,4 @@
+#math.log() it is used to find natural logarithm
+import math
+x = math.log(10)
+print(x)   # 2.302585092994046
